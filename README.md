@@ -8,3 +8,4 @@ a partir dos pares, vetor de características(variáveis regressoras) e variáve
 da primeira etapa trata-se do desenvolvimento de um sistema que faz predições quantitativas (regressão),
 ao passo que a segunda etapa é caracterizada pelo desenvolvimento de um sistema que realiza predições
 qualitativas (classificação).
+Com uma construção do PDF com analíse dos dados.
